@@ -25,7 +25,6 @@
   ul {
     display: flex;
     flex-direction: column;
-    align-items: center;
     list-style-type: none;
     padding: 0;
   }
